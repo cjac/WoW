@@ -1,0 +1,12 @@
+## Interface: 70100
+## Title: c9h.GroupBuff
+## Author: C.J. Collier <cjac@uw.edu>
+## Version: v0-0.0.1
+## Notes: Simple group buffing interface
+## SavedVariables: c9h_GroupBuff
+
+## X-Localizations: enUS
+## X-CompatibleLocales: enUS
+
+GroupBuff.lua
+
